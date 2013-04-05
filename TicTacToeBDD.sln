@@ -1,0 +1,38 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tests", "Tests\Tests.csproj", "{BD8D92BE-385E-4092-A247-583AFCBEA252}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Model", "Model\Model.csproj", "{DB235756-6F14-4742-986C-90B4CDB9F965}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ViewModel", "ViewModel\ViewModel.csproj", "{EDD702B5-0214-43A9-8AD1-222970147E09}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "View", "View\View.csproj", "{DC2B05F9-CF02-4797-AE2F-52AFCF768111}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BD8D92BE-385E-4092-A247-583AFCBEA252}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BD8D92BE-385E-4092-A247-583AFCBEA252}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BD8D92BE-385E-4092-A247-583AFCBEA252}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BD8D92BE-385E-4092-A247-583AFCBEA252}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DB235756-6F14-4742-986C-90B4CDB9F965}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DB235756-6F14-4742-986C-90B4CDB9F965}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DB235756-6F14-4742-986C-90B4CDB9F965}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DB235756-6F14-4742-986C-90B4CDB9F965}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EDD702B5-0214-43A9-8AD1-222970147E09}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EDD702B5-0214-43A9-8AD1-222970147E09}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EDD702B5-0214-43A9-8AD1-222970147E09}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EDD702B5-0214-43A9-8AD1-222970147E09}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DC2B05F9-CF02-4797-AE2F-52AFCF768111}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DC2B05F9-CF02-4797-AE2F-52AFCF768111}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DC2B05F9-CF02-4797-AE2F-52AFCF768111}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DC2B05F9-CF02-4797-AE2F-52AFCF768111}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
